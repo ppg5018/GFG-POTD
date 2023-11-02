@@ -15,4 +15,4 @@ class Solution {
             right++;
         }
     }
-}
+}g
